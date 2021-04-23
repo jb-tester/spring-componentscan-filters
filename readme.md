@@ -1,0 +1,2 @@
+## Test @ComponentScan annotation filters
+
